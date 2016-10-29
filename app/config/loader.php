@@ -1,7 +1,8 @@
 <?php
+
 /**
  * @author: Iulian Gafiu <weblysolutions@gmail.com>
- * Project: Phalcon 3 Micro Skelenton
+ * Project: Phalcon 3 API Skelenton
  * @license: The MIT License (MIT)
  * Copyright (c) 2016 Iulian Gafiu
  * For the full copyright and license information,
